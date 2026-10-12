@@ -75,6 +75,14 @@ li { margin-bottom: 6px; }
 .card p { margin: 0; color: var(--muted); font-size: 15px; }
 .card:hover { border-color: var(--accent); }
 
+/* The home page has a hero and cards, not paragraphs: it may use a wide
+   window. The pages of text keep their reading width. */
+.home .top, .home main, .home footer { max-width: 1120px; }
+.home .hero { padding: clamp(36px, 7vw, 84px) 0 clamp(12px, 2vw, 28px); }
+.home .hero h1 { font-size: clamp(30px, 5.2vw, 60px); line-height: 1.08; max-width: 15em; margin-inline: auto; }
+.home .lead { font-size: clamp(18px, 1.5vw, 21px); max-width: 36em; }
+.home .cards { gap: 18px; padding-top: clamp(18px, 3vw, 36px); }
+
 footer { border-top: 1px solid var(--line); margin-top: 42px; padding-top: 20px; padding-bottom: 36px; color: var(--muted); font-size: 15px; }
 footer nav { display: flex; flex-wrap: wrap; gap: 6px 20px; margin-bottom: 10px; }
 footer a { color: var(--muted); }
