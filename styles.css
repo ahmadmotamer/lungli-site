@@ -86,3 +86,9 @@ li { margin-bottom: 6px; }
 footer { border-top: 1px solid var(--line); margin-top: 42px; padding-top: 20px; padding-bottom: 36px; color: var(--muted); font-size: 15px; }
 footer nav { display: flex; flex-wrap: wrap; gap: 6px 20px; margin-bottom: 10px; }
 footer a { color: var(--muted); }
+/* 056: a translation's notice, the language switcher, and Arabic headings
+   without the Latin faces' tight spacing, which would break joined letters. */
+.notice { font-size: 14px; color: var(--muted); border-inline-start: 3px solid var(--accent); padding-inline-start: 12px; }
+footer .languages { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 14px; font-size: 14px; }
+footer .languages a[aria-current="page"] { font-weight: 700; text-decoration: none; }
+:lang(ar) h1, :lang(ar) h2, :lang(ar) h3, :lang(ar) .brand { letter-spacing: 0; }
