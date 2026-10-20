@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://lungli.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/id/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/uk/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ar/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/de/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/es/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/fr/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/id/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/pt/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ru/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/tr/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/uk/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/zh/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/privacy/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ar/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/de/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/es/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/fr/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/id/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/pt/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ru/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/tr/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/uk/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/zh/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/terms/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/terms/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/terms/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/terms/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/terms/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/terms/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/terms/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/terms/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/terms/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ar/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/de/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/es/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/fr/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/id/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/pt/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ru/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/tr/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/uk/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/zh/rules/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/rules/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/rules/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/rules/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/rules/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/rules/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/rules/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/rules/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/rules/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/rules/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ar/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/de/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/es/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/fr/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/id/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/pt/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ru/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/tr/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/uk/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/zh/delete-account/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
+  </url>
+  <url><loc>https://lungli.com/learn/</loc></url>
+  <url><loc>https://lungli.com/learn/what-is-a-language-exchange/</loc></url>
+  <url><loc>https://lungli.com/learn/find-a-language-exchange-partner/</loc></url>
+  <url><loc>https://lungli.com/learn/first-language-exchange-tips/</loc></url>
+</urlset>

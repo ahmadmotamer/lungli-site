@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /confirm/
+
+Sitemap: https://lungli.com/sitemap.xml

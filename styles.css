@@ -92,3 +92,23 @@ footer a { color: var(--muted); }
 footer .languages { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 14px; font-size: 14px; }
 footer .languages a[aria-current="page"] { font-weight: 700; text-decoration: none; }
 :lang(ar) h1, :lang(ar) h2, :lang(ar) h3, :lang(ar) .brand { letter-spacing: 0; }
+/* 059: the home page — a kicker, the two-tone heading, the actions, the
+   blocks, the steps, the questions, and the closing band. */
+.kicker { color: var(--accent); font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; font-size: 14px; margin: 18px 0 0; }
+.accent { color: var(--accent); }
+.actions { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 18px; }
+.button.secondary { background: var(--surface); color: var(--text); border: 1px solid var(--line); }
+.button.light { background: #FFFFFF; color: #3F2699; }
+.block { padding: 18px 0; }
+.block h2 { font-size: clamp(24px, 3vw, 32px); }
+.steps { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; counter-reset: step; }
+.steps li { background: var(--surface); border: 1px solid var(--line); border-radius: 26px; padding: 20px 22px; counter-increment: step; }
+.steps li::before { content: counter(step); display: inline-grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; background: var(--line); color: var(--accent); font-weight: 800; font-family: "Gabarito", sans-serif; }
+.steps h3, .card h3 { margin: 12px 0 4px; font-size: 19px; }
+.steps p, .cards .card p { color: var(--muted); font-size: 15px; margin: 0; }
+#faq h3 { font-size: 19px; margin-top: 24px; }
+.cta { background: #6C4DF6; color: #FFFFFF; border-radius: 32px; padding: clamp(24px, 4vw, 44px); margin: 30px 0 10px; text-align: center; }
+.cta h2 { margin-top: 0; font-size: clamp(24px, 3vw, 34px); color: #FFFFFF; }
+.cta p { color: #FFFFFF; opacity: 0.92; }
+.lead-left { font-size: 19px; color: var(--muted); }
+.more ul { padding-inline-start: 20px; }
