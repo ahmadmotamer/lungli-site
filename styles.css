@@ -209,6 +209,15 @@ footer .fine { border-top: 1px solid rgba(255, 255, 255, 0.12); margin: 30px 0 0
 .home .cta div { max-width: 34em; }
 .home .cta p { margin-bottom: 0; }
 .more ul { padding-inline-start: 20px; }
+/* 062: who wrote a guide and when, under its title. */
+.byline { color: var(--muted); font-size: 15px; margin: -4px 0 22px; }
+/* 063: a comparison in an article; it scrolls sideways on its own. */
+.table { overflow-x: auto; margin: 0 0 18px; border: 1px solid var(--line); border-radius: 18px; background: var(--surface); }
+.table table { border-collapse: collapse; width: 100%; min-width: 520px; font-size: 15px; }
+.table th, .table td { text-align: start; vertical-align: top; padding: 10px 14px; border-bottom: 1px solid var(--line); }
+.table thead th { font-family: "Gabarito", sans-serif; background: var(--violet-soft); }
+.table tbody th { font-weight: 600; }
+.table tr:last-child th, .table tr:last-child td { border-bottom: 0; }
 
 @media (max-width: 900px) {
   .menu { display: none; }
