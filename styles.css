@@ -179,6 +179,12 @@ footer .fine { border-top: 1px solid rgba(255, 255, 255, 0.12); margin: 30px 0 0
 .feature.coral p { color: var(--coral-text); }
 .feature.violet { background: var(--violet); }
 .feature .fix { background: var(--surface); border-radius: 22px; padding: 16px 20px; margin-top: 20px; }
+/* 066: why practise here, as a checklist; and Memory's steps. */
+.why { list-style: none; padding: 0; margin: 0 0 26px; display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 10px 24px; }
+.why li { position: relative; padding-inline-start: 30px; margin: 0; font-size: 17px; }
+.why li::before { content: "\2713"; position: absolute; inset-inline-start: 0; top: 0; color: var(--accent); font-weight: 700; }
+.mini-steps { margin: 16px 0 0; padding-inline-start: 22px; display: flex; flex-direction: column; gap: 6px; font-size: 16px; }
+.mini-steps li { margin: 0; padding-inline-start: 4px; }
 
 /* A band runs to the window's edges, its contents in the column: a shadow
    paints the sides, clipped to the band's height, and adds no scroll. */
