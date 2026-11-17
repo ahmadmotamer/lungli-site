@@ -2973,37 +2973,109 @@
   <url>
     <loc>https://lungli.com/learn/spanish-english-language-exchange/</loc>
     <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/spanish-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/spanish-english-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/es/learn/spanish-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/spanish-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/spanish-english-language-exchange/"/>
   </url>
   <url>
     <loc>https://lungli.com/learn/arabic-english-language-exchange/</loc>
     <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/arabic-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/arabic-english-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ar/learn/arabic-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/arabic-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/arabic-english-language-exchange/"/>
   </url>
   <url>
     <loc>https://lungli.com/learn/french-english-language-exchange/</loc>
     <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/french-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/french-english-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/fr/learn/french-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/french-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/french-english-language-exchange/"/>
   </url>
   <url>
     <loc>https://lungli.com/learn/portuguese-english-language-exchange/</loc>
     <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/portuguese-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/portuguese-english-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/pt/learn/portuguese-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/portuguese-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/portuguese-english-language-exchange/"/>
   </url>
   <url>
     <loc>https://lungli.com/learn/german-english-language-exchange/</loc>
     <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/german-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/german-english-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/de/learn/german-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/german-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/german-english-language-exchange/"/>
   </url>
   <url>
     <loc>https://lungli.com/learn/turkish-english-language-exchange/</loc>
     <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/turkish-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/turkish-english-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/tr/learn/turkish-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/turkish-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/turkish-english-language-exchange/"/>
   </url>
   <url>
     <loc>https://lungli.com/learn/russian-english-language-exchange/</loc>
     <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/russian-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/russian-english-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ru/learn/russian-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/russian-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/russian-english-language-exchange/"/>
   </url>
   <url>
     <loc>https://lungli.com/learn/chinese-english-language-exchange/</loc>
     <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/chinese-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/chinese-english-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/zh/learn/chinese-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/chinese-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/chinese-english-language-exchange/"/>
   </url>
   <url>
     <loc>https://lungli.com/learn/indonesian-english-language-exchange/</loc>
     <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/indonesian-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/indonesian-english-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/id/learn/indonesian-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/indonesian-english-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/indonesian-english-language-exchange/"/>
   </url>
 </urlset>
