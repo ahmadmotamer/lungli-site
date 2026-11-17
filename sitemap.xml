@@ -825,26 +825,414 @@
     <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/delete-account/"/>
     <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/delete-account/"/>
   </url>
-  <url><loc>https://lungli.com/learn/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://lungli.com/learn/what-is-a-language-exchange/</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://lungli.com/learn/find-a-language-exchange-partner/</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://lungli.com/learn/first-language-exchange-tips/</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://lungli.com/learn/practise-english-with-native-speakers/</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://lungli.com/learn/language-exchange-conversation-topics/</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://lungli.com/learn/correct-mistakes-in-a-language-exchange/</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://lungli.com/learn/choose-a-language-exchange-app/</loc><lastmod>2026-10-20</lastmod></url>
-  <url><loc>https://lungli.com/learn/language-exchange-for-beginners/</loc><lastmod>2026-10-28</lastmod></url>
-  <url><loc>https://lungli.com/learn/practise-a-language-every-day/</loc><lastmod>2026-10-28</lastmod></url>
-  <url><loc>https://lungli.com/learn/stay-safe-in-a-language-exchange/</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://lungli.com/learn/language-exchange-or-tutor/</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://lungli.com/learn/hellotalk-and-tandem-alternatives/</loc><lastmod>2026-11-12</lastmod></url>
-  <url><loc>https://lungli.com/learn/spanish-english-language-exchange/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://lungli.com/learn/arabic-english-language-exchange/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://lungli.com/learn/french-english-language-exchange/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://lungli.com/learn/portuguese-english-language-exchange/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://lungli.com/learn/german-english-language-exchange/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://lungli.com/learn/turkish-english-language-exchange/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://lungli.com/learn/russian-english-language-exchange/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://lungli.com/learn/chinese-english-language-exchange/</loc><lastmod>2026-11-17</lastmod></url>
-  <url><loc>https://lungli.com/learn/indonesian-english-language-exchange/</loc><lastmod>2026-11-17</lastmod></url>
+  <url>
+    <loc>https://lungli.com/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ar/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/de/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/es/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/fr/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/id/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/pt/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ru/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/tr/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/uk/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/zh/learn/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ar/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/de/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/es/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/fr/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/id/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/pt/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/ru/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/tr/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/uk/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/zh/learn/what-is-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://lungli.com/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://lungli.com/ar/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lungli.com/de/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lungli.com/es/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://lungli.com/fr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://lungli.com/id/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://lungli.com/pt/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://lungli.com/ru/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://lungli.com/tr/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://lungli.com/uk/learn/what-is-a-language-exchange/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://lungli.com/zh/learn/what-is-a-language-exchange/"/>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/find-a-language-exchange-partner/</loc>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/first-language-exchange-tips/</loc>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/practise-english-with-native-speakers/</loc>
+    <lastmod>2026-11-12</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/language-exchange-conversation-topics/</loc>
+    <lastmod>2026-11-12</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/correct-mistakes-in-a-language-exchange/</loc>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/choose-a-language-exchange-app/</loc>
+    <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/language-exchange-for-beginners/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/practise-a-language-every-day/</loc>
+    <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/stay-safe-in-a-language-exchange/</loc>
+    <lastmod>2026-11-12</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/language-exchange-or-tutor/</loc>
+    <lastmod>2026-11-12</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/hellotalk-and-tandem-alternatives/</loc>
+    <lastmod>2026-11-12</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/spanish-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/arabic-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/french-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/portuguese-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/german-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/turkish-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/russian-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/chinese-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://lungli.com/learn/indonesian-english-language-exchange/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
 </urlset>
