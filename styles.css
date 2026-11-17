@@ -72,7 +72,18 @@ main { max-width: 760px; margin: 0 auto; padding: 0 22px; }
 .menu { display: flex; gap: 4px; margin-inline-start: 12px; }
 .menu a { color: var(--text); text-decoration: none; font-weight: 500; padding: 10px 14px; border-radius: 999px; }
 .menu a:hover { background: var(--violet); }
-.top-actions { display: flex; gap: 10px; margin: 0; margin-inline-start: auto; }
+.top-actions { display: flex; align-items: center; gap: 10px; margin: 0; margin-inline-start: auto; }
+/* 067: the header's language menu. */
+.lang-menu { position: relative; }
+.lang-menu summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 12px; border: 1px solid var(--line); border-radius: 999px; color: var(--text); font-weight: 500; font-size: 15px; }
+.lang-menu summary::-webkit-details-marker { display: none; }
+.lang-menu summary:hover, .lang-menu[open] summary { background: var(--violet); }
+.lang-menu svg { fill: none; stroke: currentColor; stroke-width: 1.6; flex: none; }
+.lang-menu .lang-code { display: none; }
+.lang-menu .lang-list { position: absolute; top: calc(100% + 6px); inset-inline-end: 0; z-index: 20; list-style: none; margin: 0; padding: 6px; min-width: 190px; max-height: 70vh; overflow-y: auto; background: var(--background); border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 12px 32px rgba(0, 0, 0, 0.14); }
+.lang-menu .lang-list a { display: block; padding: 8px 12px; border-radius: 10px; color: var(--text); text-decoration: none; }
+.lang-menu .lang-list a:hover { background: var(--violet); }
+.lang-menu .lang-list a[aria-current="page"] { font-weight: 700; color: var(--accent); }
 
 h1, h2, h3 { font-family: "Gabarito", sans-serif; letter-spacing: -0.02em; line-height: 1.15; }
 h1 { font-size: clamp(30px, 6vw, 44px); font-weight: 800; margin: 28px 0 14px; }
@@ -237,6 +248,8 @@ footer .fine { border-top: 1px solid rgba(255, 255, 255, 0.12); margin: 30px 0 0
 }
 @media (max-width: 520px) {
   .top-actions .secondary { display: none; }
+  .lang-menu .lang-name { display: none; }
+  .lang-menu .lang-code { display: inline; }
   .hero-art { min-height: 0; padding: 28px 20px; }
   .hero-art img { width: 96px; height: 96px; }
   .foot-grid { grid-template-columns: 1fr; }
