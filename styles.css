@@ -24,7 +24,7 @@
   --foot-muted: #B8ABE0;
 }
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --background: #14101F;
     --surface: #221A35;
     --text: #F3EFFF;
@@ -45,6 +45,28 @@
     --foot-muted: #9B8EC0;
   }
 }
+:root[data-theme="dark"] {
+  --background: #14101F;
+  --surface: #221A35;
+  --text: #F3EFFF;
+  --muted: #B5ACCF;
+  --accent: #8F76FF;
+  --on-accent: #14101F;
+  --line: #33294D;
+  --lift: #4B30A8;
+  --lift-secondary: #0D0A16;
+  --violet: #2F2358;
+  --violet-soft: #1E1731;
+  --coral: #3A211C;
+  --coral-chip: #4B2A22;
+  --coral-text: #FFC9BA;
+  --coral-mark: #FF8F73;
+  --foot: #0D0A16;
+  --foot-text: #F3EFFF;
+  --foot-muted: #9B8EC0;
+}
+:root[data-theme="light"] { color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
 
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
@@ -84,6 +106,14 @@ main { max-width: 760px; margin: 0 auto; padding: 0 22px; }
 .lang-menu .lang-list a { display: block; padding: 8px 12px; border-radius: 10px; color: var(--text); text-decoration: none; }
 .lang-menu .lang-list a:hover { background: var(--violet); }
 .lang-menu .lang-list a[aria-current="page"] { font-weight: 700; color: var(--accent); }
+/* 068: the light/dark switch — a moon while light, a sun while dark. */
+.theme-toggle { display: inline-flex; align-items: center; justify-content: center; width: 40px; height: 40px; padding: 0; border: 1px solid var(--line); border-radius: 999px; background: transparent; color: var(--text); cursor: pointer; flex: none; }
+.theme-toggle[hidden] { display: none; }
+.theme-toggle:hover { background: var(--violet); }
+.theme-toggle:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.theme-toggle svg { fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.theme-toggle .sun, .theme-toggle[aria-pressed="true"] .moon { display: none; }
+.theme-toggle[aria-pressed="true"] .sun { display: block; }
 
 h1, h2, h3 { font-family: "Gabarito", sans-serif; letter-spacing: -0.02em; line-height: 1.15; }
 h1 { font-size: clamp(30px, 6vw, 44px); font-weight: 800; margin: 28px 0 14px; }
